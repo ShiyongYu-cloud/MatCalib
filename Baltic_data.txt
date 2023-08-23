@@ -1,0 +1,11 @@
+Period_number	Lab_ID	Depth	Age	Age_error	Reservoir_age	Reservoir_error	Cal_curve	Temporal_order
+1	LuA-5456	-783	9890	100	0	0	intcal20	ordered
+1	LuA-5455	-674.5	8220	110	0	0	intcal20	ordered
+1	LuA-5454	-601.5	7860	95	0	0	intcal20	ordered
+2	LuA-5453	-567.5	6415	90	-108	24	marine20	ordered
+2	LuA-5452	-508	5455	90	-108	24	marine20	ordered
+2	LuA-5445	-436	4875	90	-108	24	marine20	ordered
+2	LuA-5451	-376	4800	95	-108	24	marine20	ordered
+2	LuA-5450	-274.5	4850	90	-108	24	marine20	ordered
+2	LuA-5449	-180	4575	95	-108	24	marine20	ordered
+2	LuA-5448	-89.5	2935	80	0	0	intcal20	ordered

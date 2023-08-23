@@ -1,0 +1,13 @@
+Period_number	Lab_ID	Depth	Age	Age_error	Reservoir_age	Reservoir_error	Cal_curve	Temporal_order
+1	AMS-01	NaN	5880	25	0	0	intcal13	ordered
+1	AMS-02	NaN	5760	20	0	0	intcal13	ordered
+1	AMS-03	NaN	5690	30	0	0	intcal13	ordered
+1	AMS-04	NaN	5510	20	0	0	intcal13	ordered
+2	AMS-05	NaN	5590	20	0	0	intcal20	ordered
+2	AMS-06	NaN	5460	20	0	0	intcal20	ordered
+2	AMS-07	NaN	5350	20	0	0	intcal20	ordered
+2	AMS-08	NaN	5260	20	0	0	intcal20	ordered
+2	AMS-09	NaN	5120	30	0	0	intcal20	ordered
+3	AMS-10	NaN	4920	20	120	25	marine20	coeval
+3	AMS-11	NaN	4890	20	120	25	marine20	coeval
+3	AMS-12	NaN	4900	20	120	25	marine20	coeval
